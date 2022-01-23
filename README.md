@@ -22,27 +22,27 @@
 ## 📢 Guide
 > [Also for support & help please come our Telegram group.](https://t.me/AsenaSupport)
 
-> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Quiec/WhatsAsena/wiki)
+> [Install Guide/Kurulum Yardımcısı/Qurulum Müavin](https://github.com/Honspencer/WhatsAsena/wiki)
 
 > [Video Guide](https://www.youtube.com/watch?v=029KmetlKPU)
 
 > [You can translate other languages from Crowdin](https://crowdin.com/project/whatsasena)
 
 ## 🔎 What is WhatsAsena?
-**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Quiec). Does not log into your account It is written on WhatsApp Web API.
+**WhatsAsena,** is a WhatsApp helper bot written by [Yusuf Usta](https://github.com/Honspencer). Does not log into your account It is written on WhatsApp Web API.
 
 ## Setup
 ### Very Simple Method
 `We are working on it...`
 
 ### Simple Method
-[![Run on Repl.it](https://repl.it/badge/github/Quiec/whatsasena)](https://repl.it/@Quiec/whatsasena)
+[![Run on Repl.it](https://repl.it/badge/github/Honspencer/whatsasena)](https://repl.it/@Honspencer/whatsasena)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Quiec/WhatsAsena)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Honspencer/WhatsAsena)
 
 ### The Hard Method
 ```js
-git clone https://github.com/Quiec/WhatsAsena.git
+git clone https://github.com/Honspencer/WhatsAsena.git
 cd WhatsAsena
 npm i
 # Config.env oluşturun ve düzenleyin. #
@@ -74,7 +74,7 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 
 ## Developers
 
-[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://yusufusta.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Justin Thoms](https://github.com/justinthoms.png?size=100)](https://github.com/justinthoms) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
+[![Yusuf Usta](https://github.com/yusufusta.png?size=100)](https://yusufusta.net) | [![Alperen Ç](https://github.com/xacnio.png?size=100)](https://github.com/xacnio) | [![Honspencer](https://github.com/Honspencer.png?size=100)](https://github.com/Honspencer) | [![CW4RR10R](https://github.com/CW4RR10R.png?size=100)](https://github.com/CW4RR10R) | [![DevXenon](https://github.com/phaticusthiccy.png?size=100)](https://github.com/phaticusthiccy)
 ---|---|---|---|---
 [Yusuf Usta](https://t.me/fusuf) | [Alperen Ç](https://t.me/xacnio) | [justinthoms](https://t.me/Mr_justinthomas) | [CW4RR10R](https://github.com/CW4RR10R)  | [DevXenon](https://github.com/phaticusthiccy)
 Author, Base, Bug Fixes, Modules |  Bug Fixes, Modules | Bug Fixes, Modules, Idea | Modules | Modules, Idea
